@@ -22,4 +22,5 @@ Proyek ini terdiri dari beberapa halaman utama yang saling terhubung:
 ## Teknologi yang di gunakan
 
 - HTML5
+- CSS3
 - Bootstrap 5.3
