@@ -1,4 +1,4 @@
-# Proyek Sistem Informasi Absensi Kelas (Web Development)
+# Proyek Web Sistem Informasi Absensi Kelas
 
 Repositori ini dikembangkan untuk memenuhi tugas proyek kelompok mata kuliah pemrograman web. Proyek ini mengimplementasikan desain antarmuka responsif menggunakan kerangka kerja Bootstrap 5.
 
